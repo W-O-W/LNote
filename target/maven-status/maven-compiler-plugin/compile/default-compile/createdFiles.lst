@@ -1,0 +1,5 @@
+com/ki/util/DBUtils.class
+com/ki/bin/App.class
+com/ki/user/userAction.class
+com/ki/document/Document.class
+com/ki/util/FileUtil.class

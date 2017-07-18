@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ki</groupId>
-  <artifactId>help</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>LNote</artifactId>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <name>help</name>
